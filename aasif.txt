@@ -1,0 +1,13 @@
+This is git assignment.
+I am working on git commands.
+
+git init
+git add
+git commit -m "first commit"
+git branch -M main
+git remote add origin 
+git push -u origin main
+
+Thank you 
+
+ Now i have learned the basic commands of git
